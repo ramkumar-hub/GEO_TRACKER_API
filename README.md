@@ -1,15 +1,4 @@
-<h1>NestJS Boilerplate
-  <a
-    href="http://nestjs.com/"
-    target="blank"
-  >
-    <img
-      src="https://nestjs.com/img/logo_text.svg"
-      width="65"
-      alt="Nest Logo"
-    />
-  </a>
-</h1>
+<h1>GEO_TRACKER_API</h1>
 
 ## Start Guide
 
@@ -114,12 +103,3 @@ $ curl --header "Content-Type: application/json" \
 # Replace TOKEN with 'token' returned in Login/Register
 $ curl --header "Authorization: Bearer TOKEN" \
   http://localhost:3000/v1/users/507f191e810c19729de860ea
-```
-
-## Further Development
-
-Visit [NestJS](https://docs.nestjs.com/) Documentation Page for more information on how to achieve further development techniques and implementations. Or simply by contacting me at [me@sergeharb.com](mailto:me@sergeharb.com)
-
-## Description
-
-[NestJS](https://github.com/nestjs/nest) Boilerplate crafted with ❤️ by [Serge Harb](https://sergeharb.com).
